@@ -1,0 +1,2 @@
+Read example.txt with file.go
+Success - Done
